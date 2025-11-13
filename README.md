@@ -107,7 +107,7 @@ Each page focuses on a unique analytical dimension.
 ---
 
 ## 🖼️ Dashboard Preview  
-![Sales Analysis Dashboard Preview]([./sales_analysis_dashboard.png](https://github.com/abhisraj1995/Sales-Analysis/blob/main/Sales%20Analysis%20Report%20DashBoard.png))  
+![Sales Analysis Dashboard Preview]([https://github.com/abhisraj1995/Sales-Analysis/blob/main/Sales%20Analysis%20Report%20DashBoard.png] 
 *Alt Text: Power BI dashboard showing KPIs, charts, and sales performance (Sep 2021–Dec 2022)* 
 
 ---
