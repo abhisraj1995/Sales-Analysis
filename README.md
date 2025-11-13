@@ -129,9 +129,4 @@ Each page focuses on a unique analytical dimension.
 
 ## 👨‍💻 Author  
 **Abhishek Raj**  
-💼 Data Analyst | Power BI Developer + SQL + Excel | Data Enthusiast  
-📧 [abhisraj.111995@gmail.com]
-
----
-
-⭐ *If you found this helpful, consider giving the repo a star!*
+💼 Data Analyst | Power BI Developer + SQL + Excel | Data Enthusiast
